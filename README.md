@@ -1,3 +1,14 @@
+# Application Snippets
+
+<img width="960" alt="image" src="https://github.com/Adityazero4/taskManagmentApp/assets/98283712/1aac84b2-4656-4ec9-8ff8-c66331af1c01">
+<img width="960" alt="image" src="https://github.com/Adityazero4/taskManagmentApp/assets/98283712/09e37773-3de1-410b-b2c9-a7088b1ef1d2">
+<img width="938" alt="image" src="https://github.com/Adityazero4/taskManagmentApp/assets/98283712/ebea2d21-3bbe-4af9-b770-08cfb1051656">
+<img width="960" alt="image" src="https://github.com/Adityazero4/taskManagmentApp/assets/98283712/caeef8b1-ba5a-403c-8ed0-04a14a4e9268">
+<img width="960" alt="image" src="https://github.com/Adityazero4/taskManagmentApp/assets/98283712/aead8990-0c44-42be-af32-8ea02e3dfe2f">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
